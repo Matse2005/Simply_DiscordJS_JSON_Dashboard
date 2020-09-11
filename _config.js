@@ -1,3 +1,5 @@
+// Change this file to config.js
+
 module.exports = {
   "token": "Bot_token_here", // https://discordapp.com/developers/applications/ID/bot
   "id": "ApplicationID_Here", // https://discordapp.com/developers/applications/ID/information
