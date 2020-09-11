@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrAugu/discord-bot-dashboard.git"
+    "url": "git+https://github.com/Matse2005/Simply_JSON_Dashboard.git"
   },
   "keywords": [
     "discord.js",
     "bot",
     "dashboard"
   ],
-  "author": "MrAugu#7917",
+  "author": "Matse#6127",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MrAugu/discord-bot-dashboard/issues"
+    "url": "hhttps://github.com/Matse2005/Simply_JSON_Dashboard/issues"
   },
-  "homepage": "https://github.com/MrAugu/discord-bot-dashboard#readme",
+  "homepage": "https://github.com/Matse2005/Simply_JSON_Dashboard#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "discord.js": "^12.1.1",
@@ -28,7 +28,6 @@
     "express": "^4.17.1",
     "express-session": "^1.17.0",
     "memorystore": "^1.6.2",
-    "mongoose": "^5.9.9",
     "passport": "^0.4.1",
     "passport-discord": "^0.1.3"
   }
