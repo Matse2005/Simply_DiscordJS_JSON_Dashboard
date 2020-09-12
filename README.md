@@ -1,4 +1,4 @@
-# Simply_JSON_Dashboard
+# Simply_DiscordJS_JSON_Dashboard
 A discord.js bot dashboard using json.
 
 # How to start?
